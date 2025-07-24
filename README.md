@@ -38,13 +38,28 @@ This extension contributes the following settings:
 
 ## Release Notes
 
-### 0.0.1
+### 1.0.0
 
-Initial release of Auto-Fetch GitHub extension featuring:
+Stable release of Auto-Fetch GitHub extension featuring:
 - Automatic git fetch functionality
-- Configurable intervals
+- Configurable intervals (0.5 - 1440 minutes)
 - Smart repository detection
 - Notification controls
+- Real-time configuration updates
+- Intelligent error handling
+- Multi-repository support
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
+
+**What this means:**
+- ✅ You can share, copy, and redistribute the material
+- ✅ You can adapt, remix, and build upon the material
+- ❌ You cannot use the material for commercial purposes
+- ⚠️ Attribution is required - you must give appropriate credit
+
+For full license details, see the [LICENSE](LICENSE) file or visit [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ---
 
