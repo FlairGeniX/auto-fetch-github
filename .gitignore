@@ -3,6 +3,9 @@ out/
 node_modules/
 *.vsix
 
+# Extension packages
+*.vsix
+
 # OS generated files
 .DS_Store
 .DS_Store?
