@@ -2,10 +2,11 @@
   "name": "auto-fetch-github",
   "displayName": "Auto-Fetch GitHub",
   "description": "Automatically runs Git Fetch on open GitHub repositories at specified intervals (default 10 minutes).",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "FlairGeniX",
   "license": "CC-BY-NC-4.0",
   "author": "FlairGeniX",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/FlairGeniX/auto-fetch-github.git"

@@ -37,6 +37,18 @@ This extension contributes the following settings:
 
 ## Release Notes
 
+### 1.0.2
+
+Latest release featuring:
+- Extension icon for better marketplace visibility
+- Corrected marketplace release notes display
+
+### 1.0.1
+
+Bug fixes and improvements:
+- Corrected marketplace description
+- Removed premature multi-repository support claims
+
 ### 1.0.0
 
 Stable release of Auto-Fetch GitHub extension featuring:

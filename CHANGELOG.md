@@ -2,6 +2,14 @@
 
 All notable changes to the "auto-fetch-github" extension will be documented in this file.
 
+## [1.0.2] - 2025-07-24
+
+### Added
+- 🎨 Extension icon for better marketplace visibility
+
+### Fixed
+- 📝 Corrected marketplace release notes display (removed multi-repository claims)
+
 ## [1.0.1] - 2025-07-24
 
 ### Fixed
