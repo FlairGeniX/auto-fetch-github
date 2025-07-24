@@ -9,7 +9,6 @@ A VS Code extension that automatically runs `git fetch` on open Git repositories
 - **Configurable Intervals**: Set custom fetch intervals from 30 seconds to 24 hours
 - **Notification Control**: Enable/disable success notifications
 - **Real-time Configuration**: Changes to settings are applied immediately without restart
-- **Multi-Repository Support**: Automatically detects and works with Git repositories in workspace
 - **Error Handling**: Intelligent error detection and handling for Git-related issues
 
 ## Requirements
