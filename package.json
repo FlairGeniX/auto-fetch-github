@@ -1,20 +1,37 @@
 {
   "name": "auto-fetch-github",
-  "displayName": "auto-fetch-github",
+  "displayName": "Auto-Fetch GitHub",
   "description": "Automatically runs Git Fetch on open GitHub repositories at specified intervals (default 10 minutes).",
   "version": "1.0.0",
+  "publisher": "FlairGeniX",
   "license": "CC-BY-NC-4.0",
   "author": "FlairGeniX",
   "repository": {
     "type": "git",
     "url": "https://github.com/FlairGeniX/auto-fetch-github.git"
   },
+  "bugs": {
+    "url": "https://github.com/FlairGeniX/auto-fetch-github/issues"
+  },
+  "homepage": "https://github.com/FlairGeniX/auto-fetch-github#readme",
+  "keywords": [
+    "git",
+    "fetch",
+    "automation",
+    "github",
+    "repository",
+    "sync"
+  ],
   "engines": {
     "vscode": "^1.102.0"
   },
   "categories": [
     "Other"
   ],
+  "galleryBanner": {
+    "color": "#1e1e1e",
+    "theme": "dark"
+  },
   "activationEvents": [
     "onStartupFinished"
   ],
