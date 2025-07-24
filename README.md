@@ -46,7 +46,6 @@ Stable release of Auto-Fetch GitHub extension featuring:
 - Notification controls
 - Real-time configuration updates
 - Intelligent error handling
-- Multi-repository support
 
 ## License
 
