@@ -2,6 +2,11 @@
 
 All notable changes to the "auto-fetch-github" extension will be documented in this file.
 
+## [1.0.3] - 2025-07-25
+
+### Fixed
+- 🐛 Various bugfixes and improvements
+
 ## [1.0.2] - 2025-07-24
 
 ### Added

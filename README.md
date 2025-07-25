@@ -37,6 +37,10 @@ This extension contributes the following settings:
 
 ## Release Notes
 
+### 1.0.3
+
+Various bugfixes and improvements
+
 ### 1.0.2
 
 Latest release featuring:
